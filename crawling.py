@@ -152,6 +152,3 @@ class Spider:
 spider = Spider()
 spider.savePagesInfo(2, 10)
 
-
-
-
